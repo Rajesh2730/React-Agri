@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Agri1/static/css/main.246e62b5.css",
+    "main.js": "/React-Agri1/static/js/main.af022a79.js",
+    "static/js/453.8ab44547.chunk.js": "/React-Agri1/static/js/453.8ab44547.chunk.js",
+    "static/media/bg vdo 1.mp4": "/React-Agri1/static/media/bg vdo 1.26e93a621bf58c12432a.mp4",
+    "static/media/bg vdo.mp4": "/React-Agri1/static/media/bg vdo.7fb6b142ecd71d961ae9.mp4",
+    "static/media/bg.jpg": "/React-Agri1/static/media/bg.fe540f83ad7b74a18666.jpg",
+    "static/media/farmer.png": "/React-Agri1/static/media/farmer.114313b7b443fc8412fe.png",
+    "index.html": "/React-Agri1/index.html",
+    "main.246e62b5.css.map": "/React-Agri1/static/css/main.246e62b5.css.map",
+    "main.af022a79.js.map": "/React-Agri1/static/js/main.af022a79.js.map",
+    "453.8ab44547.chunk.js.map": "/React-Agri1/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.246e62b5.css",
+    "static/js/main.af022a79.js"
+  ]
+}
